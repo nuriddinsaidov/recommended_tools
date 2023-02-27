@@ -6,3 +6,5 @@ just private
 
 
 # cool staff for generating boilerplate 
+
+#https://github.com/audreyfeldroy/cookiecutter-pypackage
